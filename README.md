@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./banner.webp" width="100%" alt="Banner do vieirandro">
+  <img src="./banner.gif" width="100%" alt="Banner animado do vieirandro">
 </p>
